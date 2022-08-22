@@ -4,10 +4,7 @@ import WebView from 'react-native-webview-bootpay';
 import {
   SafeAreaView,
   StyleSheet,
-  Dimensions,
-  View,
-  Text,
-  TouchableOpacity
+  Dimensions, 
 } from 'react-native'; 
 
 
